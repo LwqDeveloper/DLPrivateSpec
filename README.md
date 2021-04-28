@@ -7,8 +7,11 @@
 ### pod lib create CCLibTest
 
 ### 3.提交代码
+### git init
 ### git add .
 ### git commit -m 'init'
+### git remote add origin ---  添加仓库
+### git merge master --allow-unrelated-histories    master -> main
 ### git pull 
 ### git push
 
