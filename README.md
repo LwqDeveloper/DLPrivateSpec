@@ -1,5 +1,15 @@
 # DLPrivateSpec
-私有Pod库
+# 私有Pod库
+# source 'https://github.com/LwqDeveloper/DLPrivateSpec.git'
+# 通用工具类
+# pod 'DLCommonTool'  
+# 通用存储类
+# pod 'DLDataHandle'  
+# 通用照片/视频浏览器类
+# pod 'DLPhotoVideoBrowser'  
+
+
+
 ## 1.创建私有spec repo也就是配置仓库
 ### pod repo add PrivateSpec(私有配置仓库名称) 私有配置仓库git地址(ssh地址比较好一些)
 
