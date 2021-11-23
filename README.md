@@ -33,7 +33,7 @@
 ### pod spec lint --allow-warnings
 
 ## 6.CCLibTest.podspec上传到私有配置仓库PrivateSpec
-### pod repo push PodPrivate CCLibTest.podspec --verbose --use-libraries --allow-warnings
+### pod repo push PrivateSpec CCLibTest.podspec --verbose --use-libraries --allow-warnings
   
   
 
